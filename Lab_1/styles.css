@@ -1,0 +1,48 @@
+body {
+  word-spacing: 0.1em;
+  max-width: 960px;
+  margin: 0 auto;
+  padding-bottom: 2em;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  text-align: center;
+}
+
+p {
+  line-height: 1.8;
+}
+
+ul {
+  line-height: 1.8;
+}
+
+mark {
+  border: 1px dotted;
+  white-space: pre;
+}
+
+h4 {
+  margin: 0;
+  padding: 4px;
+  background: black;
+  color: white;
+}
+
+.fancy_first_letter:first-letter {
+  font-size: 500%;
+  float: left;
+  line-height: 0.7;
+}
+
+.arrow_paragraph {
+  white-space: pre;
+}
+
+.moneyBag {
+  padding: 35px 20% 35px 0;
+  border: 2px solid;
+  background: white url(images/bag_of_money.png) bottom right no-repeat;
+}
