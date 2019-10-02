@@ -1,0 +1,62 @@
+.navbar-cst{
+    background-color: #3c2f36;
+    text-align: center;
+    font-size: 1.5em;
+}
+
+.logo-cst img{
+    position: relative;
+    height: 55px;
+}
+
+.logo-cst{
+    margin-left: 2%;
+    background-color: #67515d;
+    border: solid 2px #3c2f36;
+}
+
+.photo-cst{
+    margin: 3%;
+    width: 40%;
+    height: auto;
+}
+
+.about_singer-cst{
+    margin: 0 15% 0 15%;
+    padding: 2% 5% 2% 5%;
+    background-color: #265665;
+    color: white;
+}
+
+h1{
+    text-align: center;
+}
+footer p{
+    line-height: 35px;
+    margin-bottom: 0;
+}
+
+footer{
+    position: absolute;
+    width: 100%;
+    background-color: #3c2f36;
+    color: white;
+    text-align: center;
+}
+
+.box-cst{
+    margin: 3%;
+}
+
+.dropdown-cst button{
+    font-size: 1.4em;
+    background-color: #3c2f36;
+    color: white;
+}
+
+hr{
+    width: 80%;
+    border: solid 3px black;
+    color: black;
+}
+
